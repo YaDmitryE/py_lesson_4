@@ -1,3 +1,5 @@
+# https://github.com/YaDmitryE/py_lesson_4
+
 # Введите пятизначное целое число
 number = int(input("Введите пятизначное целое число: "))
 

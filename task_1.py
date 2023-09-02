@@ -1,3 +1,5 @@
+# https://github.com/YaDmitryE/py_lesson_4
+
 # Вводим длину и ширину прямоугольника
 length = float(input("Введите длину прямоугольника: "))
 width = float(input("Введите ширину прямоугольника: "))
